@@ -4,12 +4,14 @@ import random
 activity = ["Mini-Golf", "Laser Tag", "Arcade", "Movie", "Smoke Sesh",
             "Self-Care", "Game Night", "Hike", "Bike Ride", "Arts & Crafts", 
             "Museum", "Trampoline Park", "Sunset Drive", "Aquarium", "Bowling", 
-            "Karaoke", "Picnic", "Mall", "Urban Exploring", "Thrifting"]
+            "Karaoke", "Picnic", "Mall", "Urban Exploring", "Thrifting", "Roller Skating", 
+            "Carnival", "Color Me Mine", "Stargazing", "Drive in Movie"]
 food = ["Ramen", "Pizza", "Mexican", "Thai", "American", "Pasta", 
         "Dumplings", "Chacutterie", "BYO Sandwich", "Ralphs Mukbang", "Sushi", 
-        "Acai Bowls", "BBQ", "K-BBQ"]
+        "Acai Bowls", "BBQ", "K-BBQ", "Middle Eastern"]
 treat = ["Boba", "Matcha", "Cream Puffs", "Mochi", "Somi Somi", "Saffron & Rose",
-         "Ice Cream", "Cinnamon Rolls", "Pie", "Wetzel Pretzel", "Mango Sticky Rice"]
+         "Ice Cream", "Cinnamon Rolls", "Pie", "Wetzel Pretzel", "Mango Sticky Rice",
+         "Candy"]
 
 st.title("NarDateGenerator")
 st.write("Press the button to generate a date!")
