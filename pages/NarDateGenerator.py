@@ -11,7 +11,7 @@ food = ["Ramen", "Pizza", "Mexican", "Thai", "American", "Pasta",
         "Acai Bowls", "BBQ", "K-BBQ", "Middle Eastern"]
 treat = ["Boba", "Matcha", "Cream Puffs", "Mochi", "Somi Somi", "Saffron & Rose",
          "Ice Cream", "Cinnamon Rolls", "Pie", "Wetzel Pretzel", "Mango Sticky Rice",
-         "Candy"]
+         "Candy", "Donuts"]
 
 st.title("NarDateGenerator")
 st.write("Press the button to generate a date!")
