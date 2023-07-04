@@ -17,7 +17,7 @@ st.header("Progress Bars")
 if days < 30:
     month_bar = st.progress(days / 30, text = "1 Month Together")
 else:
-    month_bar = st.progress(1, text = "1 Month Together")
+    month_bar = st.progress(1.0, text = "1 Month Together")
 if days < 183:
     sixmonth_bar = st.progress(days / 183, text = "6 Months Together")
 else:
