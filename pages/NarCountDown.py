@@ -21,8 +21,8 @@ else:
 if days < 183:
     sixmonth_bar = st.progress(days / 183, text = "6 Months Together")
 else:
-    sixmonth_bar = st.progress(1, text = "6 Months Together")
+    sixmonth_bar = st.progress(1.0, text = "6 Months Together")
 if days < 365:
     year_bar =  st.progress(days / 365, text = "1 Year Together")
 else:
-    year_bar = st.progress(1, text = "1 Year Together")
+    year_bar = st.progress(1.0, text = "1 Year Together")
