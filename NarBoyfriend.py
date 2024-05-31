@@ -6,12 +6,17 @@ st.set_page_config(
 st.title("Welcome to NarBoyfriend!")
 st.divider()
 col1, col2 = st.columns(2)
-col1.image('IMG_5925.JPG', width=300)
+col1.image('000050.jpeg', width=300)
 col2.markdown(
     """
-    I appreciate you endlessly my handsome boy. Every time I am with you
-    the world becomes so small and happy. I love your goofiness and your sense of humor.
-    I love your kindness and extroversion. I love your wit and your rizz. I am incredibly lucky
-    to have you as my boyfriend. I look forward to the rest of the summer and a future with you by my side.
+    Return of the NarBoyfriend! I cannot believe that it has already
+    been an entire year. I am so incredibly lucky to have such an
+    incredible person by my side. You never fail to make me laugh,
+    make me feel loved, and make me the best version of myself. Now that
+    one year is already over, I cannot wait to see what our future holds
+    in store.
+
+    Love,   
+    Jason
     """
 )
